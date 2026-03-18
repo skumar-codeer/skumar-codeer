@@ -41,13 +41,25 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 
 ### 🚀 Featured Tools & Technologies
 <p align="center">
+
 <img src="https://img.shields.io/badge/Code-C-blue?style=for-the-badge&logo=c">
 <img src="https://img.shields.io/badge/Code-C++-blue?style=for-the-badge&logo=cplusplus">
+
 <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python">
 <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java">
+
 <img src="https://img.shields.io/badge/Frontend-HTML/CSS/JS-orange?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/React-Framework-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+
+<img src="https://img.shields.io/badge/Flutter-Mobile-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+
+<img src="https://img.shields.io/badge/UI%2FUX-Design-purple?style=for-the-badge&logo=figma&logoColor=white">
+
 <img src="https://img.shields.io/badge/Cloud-AWS-black?style=for-the-badge&logo=amazonaws">
+
 <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visualstudiocode">
+
 </p>
 
 ---
