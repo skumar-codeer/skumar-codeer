@@ -50,10 +50,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
 </a> 
 
-<!-- Antigravity (fun placeholder using Python logo 😄) -->
-<a href="https://xkcd.com/353/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="antigravity" width="40" height="40"/> 
-</a> 
+
 
 </p>
 
