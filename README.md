@@ -47,6 +47,7 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 
 <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python">
 <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java">
+<img src="https://img.shields.io/badge/PHP-Backend-777BB4?style=for-the-badge&logo=php&logoColor=white">
 
 <img src="https://img.shields.io/badge/Frontend-HTML/CSS/JS-orange?style=for-the-badge">
 
@@ -61,7 +62,6 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visualstudiocode">
 
 </p>
-
 ---
 
 ### 📊 GitHub Analytics
